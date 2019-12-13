@@ -1,5 +1,7 @@
 # RT
 Let’s shift into higher gear! Following up on Rtv1, RT pushes the limits of what Raytracing can do: mirror effect, transparency, object cutting, texture application…Use the preceding project to create an infrastructure capable of supporting all these ramifications and obtain sublime computer-generated images.
+<img src="images/Screen Shot 2019-11-30 at 9.48.09 PM.png">
+<img src="images/Screen Shot 2019-11-30 at 9.49.26 PM.png">
 <img src="images/2.png">
 <img src="images/3.png">
 <img src="images/4.png">
